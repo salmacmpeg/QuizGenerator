@@ -35,7 +35,7 @@ Refer to `requirements.txt` for a complete list of dependencies.
 2. **Set Up Environment**: Install the required packages using `pip install -r requirements.txt`.
 3. **Prepare your resource documents** in the pdf format and add them to one folder inside your project directory.
 4. **Run Application**: Execute the main script using `python main.py`.
-5. **Interact**: Use the conversational interface to generate quiz questions by providing a query related to your course material.
+5. **Interact**: Use the conversational interface, at 'http://127.0.0.1:7860' by default, to generate quiz questions by providing a query related to your course material.
 6. **Exit**: Type 'exit' to terminate the application.
 
 ## File Structure
