@@ -39,10 +39,11 @@ Refer to `requirements.txt` for a complete list of dependencies.
 6. **Exit**: Type 'exit' to terminate the application.
 
 ## File Structure
+The root folder of the project contains:
 - `main.py`: The entry point of the application.
-- `src/`: Contains the core modules such as `DataLoader`, `VectorSpaceCreator`, and `ChatModel`.
-- `Questions_resources/` directory stores the course material.
-- `vector_db/` directory stores the vectorized database used for generating the quiz questions. 
+- `src`: Contains the core modules such as `DataLoader`, `VectorSpaceCreator`, and `ChatModel`.
+- `Questions_resources` directory stores the course material.
+- `vector_db` directory stores the vectorized database used for generating the quiz questions. 
 
 ## Models
 This project uses free modules from the LangChain community:
