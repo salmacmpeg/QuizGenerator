@@ -48,7 +48,7 @@ The root folder of the project contains:
 ## Models
 This project uses free modules from the LangChain community:
 - **Embedding**: the `sentence-transformers/all-MiniLM-L6-v2` is employed to represent your documents in a semantic format, making it easier to retrieve the most relevant parts.
--**Text Generation**: the `llama3.2` is used produce contextually quiz questions based on the retrieved information.
+- **Text Generation**: the `llama3.2` is used produce contextually quiz questions based on the retrieved information.
 
 ## Gradio Interface
 The application also offers a Gradio interface for a more interactive and user-friendly experience. To access the interface, simply run the following command in your terminal inside your project folder: `python main.py`
